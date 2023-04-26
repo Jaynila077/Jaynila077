@@ -1,4 +1,5 @@
-# 💫 About Me:
+<div align="center">
+  # 💫 About Me:
 I'm Web Developer and Data Science Enthusiast.<br>
 
 
@@ -26,7 +27,7 @@ I'm Web Developer and Data Science Enthusiast.<br>
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 #### Package Manager
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ## Data Science And Machine Learning
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -51,3 +52,6 @@ I'm Web Developer and Data Science Enthusiast.<br>
 [![](https://visitcount.itsvg.in/api?id=jaynila077&icon=2&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  </div>
+  
