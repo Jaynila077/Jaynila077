@@ -23,10 +23,10 @@ I'm Web Developer and Data Science Enthusiast.<br>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 #### Database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 #### Package Manager
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 
 ## Data Science And Machine Learning
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
