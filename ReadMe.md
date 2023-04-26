@@ -3,10 +3,6 @@
   # 💫 About Me:
 I'm Web Developer and Data Science Enthusiast.<br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-nila-9b3676229/) 
-
 # 💻 Tech Stack:
 
 #### Languages
@@ -48,9 +44,15 @@ I'm Web Developer and Data Science Enthusiast.<br>
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaynila077&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+  
+ 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-nila-9b3676229/) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaynila077&icon=2&color=5)](https://visitcount.itsvg.in)
+  
+  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
