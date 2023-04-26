@@ -12,8 +12,8 @@ I'm Web Developer and Data Science Enthusiast.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaynila077&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynila077&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaynila077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaynila077&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaynila077&icon=2&color=5)](https://visitcount.itsvg.in)
