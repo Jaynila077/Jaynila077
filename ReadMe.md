@@ -38,7 +38,7 @@ I'm Web Developer and Data Science Enthusiast.<br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaynila077&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![jaynila077's Stats](https://github-readme-stats.vercel.app/api?username=jaynila077&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaynila077&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynila077&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
