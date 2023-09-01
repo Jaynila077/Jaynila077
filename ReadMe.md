@@ -1,12 +1,8 @@
 <div align="center">
   
   # 💫 About Me:
-I'm Web Developer and Data Science Enthusiast.<br>
+<h1>I'm Machine Learning Enthusiast.</h1> <br>
 
-
-## Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
 # 📊 GitHub Stats:
