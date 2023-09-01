@@ -1,7 +1,7 @@
 <div align="center">
   
-  # 💫 About Me:
-<h1>I'm Machine Learning Enthusiast.</h1> <br>
+  # HELLO I'M JAY 
+<h2>I'm Machine Learning Enthusiast.</h2> <br>
 
 
 
